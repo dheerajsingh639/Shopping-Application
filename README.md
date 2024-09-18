@@ -39,7 +39,7 @@
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourUsername&layout=compact&langs_count=8&hide=html&title_color=FF5733&text_color=E5E5E5&bg_color=0,1F1F1F,000000&hide_border=true&custom_title=Most%20Used%20Languages&exclude_repo=Language-Repo&langs=Flutter,Dart" alt="Most Used Languages: Flutter & Dart" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourUsername&layout=compact&title_color=FF5733&text_color=E5E5E5&bg_color=0,1F1F1F,000000&langs_count=8&hide_border=true&custom_title=Most%20Used%20Languages%20(Flutter%20%26%20Dart)&langs=Flutter,Dart" alt="Most Used Languages: Flutter & Dart" />
 
 <br>
 
