@@ -1,0 +1,46 @@
+<%- include('components/header') %>
+<%- include('components/sidebar') %>
+
+<div class="col-md-9 col-lg-10 content">
+    <div class="col-md-6">
+        <h2 class="mt-5 mb-4 text-center">Upload Image</h2>
+        <form method="post" action="/banner" enctype="multipart/form-data">
+            <div class="form-group">
+                <label for="fileToUpload">Select image to upload:</label>
+                <div class="custom-file">
+                    <input type="file" class="custom-file-input" name="fileToUpload" id="fileToUpload" required>
+                    <label class="custom-file-label" for="fileToUpload">Choose file</label>
+                </div>
+            </div>
+            <button type="submit" class="btn btn-primary" name="submit">Upload Image</button>
+        </form>
+    </div>
+
+    <div class="col-md-12 mt-5">
+        <h3 class="mb-4">Uploaded Images</h3>
+        <% if (banners.length > 0) { %>
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Image</th>
+                        <th>Name</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <% banners.forEach(function(banner, index) { %>
+                        <tr>
+                            <td><%= index + 1 %></td>
+                            <td><img src="/<%= banner.filepath %>" alt="Image" style="width: 100px;"></td>
+                            <td><%= banner.filename %></td>
+                        </tr>
+                    <% }) %>
+                </tbody>
+            </table>
+        <% } else { %>
+            <p>No images have been uploaded yet.</p>
+        <% } %>
+    </div>
+</div>
+
+<%- include('components/footer') %>

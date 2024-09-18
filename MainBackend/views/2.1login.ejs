@@ -1,0 +1,27 @@
+<%- include('components/header') %>
+<%- include('components/sidebar') %>
+
+<div class="col-md-9 col-lg-10 content">
+    <div class="col-md-6">
+        <h2 class="text-center">Login</h2>
+        <form action="/login" method="post">
+            <div class="form-group">
+                <label for="email">Email address:</label>
+                <input type="email" class="form-control" id="email" name="email" required>
+            </div>
+            <div class="form-group">
+                <label for="password">Password:</label>
+                <input type="password" class="form-control" id="password" name="password" required>
+                <br>
+                <a href="/forgot-password">Forgot Password?</a>
+                <br>
+            </div>
+            <button type="submit" class="btn btn-primary btn-block">Login</button>
+        </form>
+        <p class="text-center mt-3">
+           Don't have an account? <a href="/register">Sign Up</a>
+        </p>
+    </div>
+</div>
+
+<%- include('components/footer') %>

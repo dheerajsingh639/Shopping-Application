@@ -1,0 +1,21 @@
+<%- include('components/header')%>
+<%- include('components/sidebar')%>
+      
+<div class="col-md-9 col-lg-10 content">
+    <div class="col-md-6">
+            <h2 class="mt-5 mb-4 text-center">Upload Image</h2>
+            <form method="get" action="/upload" enctype="multipart/form-data">
+                <div class="form-group">
+                    <label for="fileToUpload">Select image to upload:</label>
+                    <div class="custom-file">
+                        <input type="file" class="custom-file-input" name="fileToUpload" id="fileToUpload" required>
+                        <label class="custom-file-label" for="fileToUpload">Choose file</label>
+                    </div>
+                </div>
+                <button type="submit" class="btn btn-primary" name="submit">Upload Image</button>
+            </form>
+        </div>
+        </div>
+
+
+<%- include('components/footer')%>

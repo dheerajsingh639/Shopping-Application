@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        /* Sidebar Styling */
+        .sidebar {
+            background-color: #343a40; /* Dark background color */
+            color: #fff;
+            padding-top: 20px;
+            min-height: 100vh;
+            width: 250px;
+            position: fixed; /* Fixed position to stick to the side */
+            top: 0;
+            left: 0;
+            z-index: 1000; /* Ensure it is on top of other content */
+        }
+
+        /* Sidebar Links Styling */
+        .sidebar a {
+            color: yellow;
+            border-top: 2px solid rgba(255, 255, 255, .1);
+            border-bottom: 1px solid skyblue;
+            padding: 10px 20px;
+            display: block;
+            text-decoration: none;
+            transition: .3s; /* Smooth transition */
+            margin: 5px 0; /* Add margin above and below each link */
+        }
+
+        .sidebar a:hover {
+            padding-left: 16px;
+            background-color: skyblue;
+            color: #000; /* Change text color on hover */
+        }
+
+        /* Content Area Styling */
+        .content {
+            margin-left: 210px; /* Offset by the width of the sidebar */
+            padding: 20px; /* Increased padding for better spacing */
+            min-height: 100vh;
+            background-color: #f8f9fa; /* Light background color for content area */
+            position: relative;
+        }
+
+        /* Centered Container Styling */
+        .centered-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            min-height: 80vh; /* Adjust this value as needed */
+        }
+
+        /* Navbar Styling */
+        .navbar {
+            z-index: 1050; /* Ensure it is above other content */
+            margin-left: 210px; /* Align with the content area by adding left margin */
+        }
+    </style>
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-light" style="background-color: #87CEEB;">
+    <a class="navbar-brand" href="/dashboard">Dashboard</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto"></ul>
+        <form class="form-inline my-2 my-lg-0" action="/search" method="GET">
+            <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search" name="query">
+            <button class="btn btn-outline-dark my-2 my-sm-0" type="submit">Search</button>
+        </form>
+    </div>
+</nav>
+</body>
+</html>
