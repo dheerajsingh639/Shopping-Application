@@ -18,11 +18,12 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Dart | Java | C++ | HTML | CSS | JavaScript 
-- 🌐 &nbsp; React.js | Android | Flutter | J2EE | node.js
-- 🛢 &nbsp; MySQL | Firebase | Xampp | docker
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Adobe Xd | Adobe Illustrator | Adobe Photoshop | OpenShot
+- 💻 &nbsp; Python | C | C++ | Dart | Java | HTML | CSS | Bootstrap 
+- 🌐 &nbsp; React.js | Node.js | Flutter | Express.js | EJS
+- 🛢 &nbsp; Firebase | Mongoose DB | MySQL | Docker | XAMPP 
+- 🔧 &nbsp; Git | GitHub | Android Studio | PyCharm | Visual Studio Code | Eclipse
+- 🖥 &nbsp; UI/UX Design | Adobe XD | Adobe Illustrator | Adobe Photoshop | OpenShot
+- 🌐 &nbsp; Third-party RESTful APIs | Cloud Firebase Integration | State Management
 
 <br>
 
