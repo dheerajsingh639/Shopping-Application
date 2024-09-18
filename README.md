@@ -28,13 +28,18 @@
 <br>
 
 <!-- ![souvik's Github Stats](https://github-readme-stats.vercel.app/api?username=devSouvik&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
+
 <h3>📊 GitHub Stats</h3>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=yourUsername&include_all_commits=true&count_private=true&show_icons=true&line_height=24&title_color=FF5733&icon_color=4C8BF5&text_color=E5E5E5&bg_color=0,1F1F1F,000000" alt="yourUsername's GitHub Stats" />
 
+<p align="center">
+  <b>🏆 Grade: A</b> &nbsp; | &nbsp; <b>🌟 Total Stars Earned: 500+</b> &nbsp; | &nbsp; <b>🔀 Total PRs: 200+ & Contributions: 350+</b>
+</p>
+
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourUsername&layout=compact&title_color=FF5733&text_color=E5E5E5&bg_color=0,1F1F1F,000000" alt="Top Languages" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourUsername&layout=compact&langs_count=8&hide=html&title_color=FF5733&text_color=E5E5E5&bg_color=0,1F1F1F,000000&hide_border=true&custom_title=Most%20Used%20Languages&exclude_repo=Language-Repo&langs=Flutter,Dart" alt="Most Used Languages: Flutter & Dart" />
 
 <br>
 
