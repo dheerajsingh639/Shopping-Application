@@ -65,3 +65,38 @@ This Flutter-based shopping app offers users a seamless and engaging mobile shop
 ![Screenshot (69)](https://github.com/user-attachments/assets/bdf2087f-a829-4ea6-8ad6-5fa4a20f3277)
 ![Screenshot (71)](https://github.com/user-attachments/assets/ec44ee2b-698f-40ec-ae9a-6b3f75fa912a)
 ![Screenshot (72)](https://github.com/user-attachments/assets/204043ab-ac85-4973-a660-630eec4c7421)
+
+
+
+<h2> Hey there! I'm Dheeraj <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/Hi.gif" width="25"></h2>
+
+<img align="right" alt="Coding GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="400"/>
+
+---
+
+### 👨🏻‍💻 About Me 
+- 🔭 Currently working on a **Flutter-based shopping app**
+- 🎓 Studying **Computer Science** & improving my **Frontend skills**
+- 🌱 Learning new technologies and automating tasks
+- 💼 Full-stack developer by profession
+- 💻 InfoSec enthusiast and anime lover!
+
+---
+
+### 🛠 Tech Stack
+```bash
+💻 Languages: Python | Dart | Java | C++ | HTML | CSS | JavaScript 
+🌐 Frameworks: React.js | Flutter | Node.js | J2EE
+🛢 Databases: MySQL | Firebase | Xampp | Docker
+🔧 Tools: Android Studio | PyCharm | VS Code | Eclipse | Git
+🎨 Design: Adobe XD | Illustrator | Photoshop
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=devSouvik&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
+
+🤝 Connect with Me:
+<p align="center"> <a href="https://www.linkedin.com/in/souvik-guria-" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50"></a> <a href="mailto:souvikguriacp@gmail.com" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50"></a> <a href="https://twitter.com/_souvikguria" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50"></a> <a href="https://www.instagram.com/the_caffeine__addict/" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50"></a> </p>
+
+
+You can modify the links and adjust colors to fit your personal branding, ensuring it’s visually engaging. This layout includes section dividers, structured information, and highlights your shopping app.
+
