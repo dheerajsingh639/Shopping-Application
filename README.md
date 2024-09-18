@@ -69,3 +69,17 @@
 
 This Flutter-based shopping app offers users a seamless and engaging mobile shopping experience. The app includes features such as Registration Form, Forget Password , adding items from admin tabe, and making purchases, all wrapped in a user-friendly interface
 
+![Screenshot (85)](https://github.com/user-attachments/assets/ad1fdb5a-4333-450f-bc36-c5b1cd00f715)
+![Screenshot (84)](https://github.com/user-attachments/assets/987be2da-557d-473e-83a5-99e2db3a8bfa)
+![Screenshot (83)](https://github.com/user-attachments/assets/d9392ba8-8af8-4b15-876c-f28532e840c9)
+![Screenshot (82)](https://github.com/user-attachments/assets/a98be154-0437-42be-bf98-08af67133d86)
+![Screenshot (81)](https://github.com/user-attachments/assets/dbe1a480-2af2-49fb-905b-c2268fb1581c)
+![Screenshot (80)](https://github.com/user-attachments/assets/e69cc454-6b64-4e1a-9973-0fef99c35290)
+![Screenshot (79)](https://github.com/user-attachments/assets/c3c74bb1-e8a4-45d7-9873-a238a307c89d)
+![Screenshot (78)](https://github.com/user-attachments/assets/aa57f15b-4ce3-4b6f-a80b-8036e56d8d4e)
+![Screenshot (77)](https://github.com/user-attachments/assets/4cdffea7-b5a7-49bf-8998-449384136970)
+![Screenshot (76)](https://github.com/user-attachments/assets/d658dcf2-a41f-4ecc-ad7f-71ef53526213)
+![Screenshot (75)](https://github.com/user-attachments/assets/bbbff80c-686b-4685-ad9b-4d2b32be0fe4)
+![Screenshot (74)](https://github.com/user-attachments/assets/6027e8dc-d187-4c62-a33f-635d26edf8dd)
+![Screenshot (73)](https://github.com/user-attachments/assets/09ebdbca-c54f-473d-9878-cfbd2bc7a10b)
+
