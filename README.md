@@ -77,10 +77,17 @@ This Flutter-based shopping app offers users a seamless and engaging mobile shop
 ![Screenshot (78)](https://github.com/user-attachments/assets/aa57f15b-4ce3-4b6f-a80b-8036e56d8d4e)
 ![Screenshot (79)](https://github.com/user-attachments/assets/c3c74bb1-e8a4-45d7-9873-a238a307c89d)
 ![Screenshot (80)](https://github.com/user-attachments/assets/e69cc454-6b64-4e1a-9973-0fef99c35290)
-![Screenshot (81)](https://github.com/user-attachments/assets/dbe1a480-2af2-49fb-905b-c2268fb1581c)
-![Screenshot (82)](https://github.com/user-attachments/assets/a98be154-0437-42be-bf98-08af67133d86)
-![Screenshot (83)](https://github.com/user-attachments/assets/d9392ba8-8af8-4b15-876c-f28532e840c9)
-![Screenshot (84)](https://github.com/user-attachments/assets/987be2da-557d-473e-83a5-99e2db3a8bfa)
-![Screenshot (85)](https://github.com/user-attachments/assets/ad1fdb5a-4333-450f-bc36-c5b1cd00f715)
+
+
+![Uploading Screenshot (84).png…]()
+
+![Screenshot (83)](https://github.com/user-attachments/assets/f28a2e87-00cd-4ee3-a709-84e06bc890fa)
+
+![Screenshot (82)](https://github.com/user-attachments/assets/4df952ab-0ee9-46dd-83b1-94424e96b684)
+
+![Screenshot (85)](https://github.com/user-attachments/assets/f07156d7-9e48-4273-8378-79de219d5398)
+![Screenshot (81)](https://github.com/user-attachments/assets/875ff952-b86a-45f1-a4db-81b98c9f759d)
+
+
 
 
