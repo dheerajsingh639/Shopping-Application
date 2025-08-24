@@ -48,19 +48,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
 
-<h3> 🤝🏻 Connect with Me </h3>
 
-<p align="Row">
-&nbsp; <a href="https://profile.indeed.com/?hl=en_IN&co=IN&from=gnav-homepage" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=0bivoTfGHrML&format=png&color=000000" width="50" /></a> 
-  &nbsp; <a href="dheerajchauhan269@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-&nbsp; <a href="https://x.com/DheerajSingh637?t=G0grBgmoKteCtT83ks0N-g&s=09" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a> 
-&nbsp; <a href="https://www.instagram.com/_d_heeraj_chauhan/profilecard/?igsh=cmsyOTVrcmY1dGRm" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a> 
-&nbsp; <a href="https://www.facebook.com/profile.php?id=61562829161039&mibextid=ZbWKwL" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=118568&format=png&color=000000" width="50" /></a> 
-&nbsp; <a href="www.youtube.com/@DheerajChauhan-x3e" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" width="50" /></a> 
-  
-&nbsp; <a href="https://t.me/tele12200" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=5mIvDYZUWDCF&format=png&color=000000" width="50" /></a> 
-&nbsp; <a href="https://discord.gg/VxzZBdzP" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=30998&format=png&color=000000" width="50" /></a> 
-</p>
 <!-- Aaahhhhhh !! My contribution grapgh is getting eaten... 😶 -->
 <!-- <p> 
  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/output/github-contribution-grid-snake.gif" />
@@ -69,7 +57,7 @@
 <!-- addded on 3rd May 2021 -->
 
 #### **Visitor Count**
- ![Visitor Count](https://profile-counter.glitch.me/{devSouvik}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/your-username/count.svg)
 
 This Flutter-based shopping app offers users a seamless and engaging mobile shopping experience. The app includes features such as Registration Form, Forget Password , adding items from admin tabe, and making purchases, all wrapped in a user-friendly interface
 
@@ -86,7 +74,19 @@ This Flutter-based shopping app offers users a seamless and engaging mobile shop
 ![Screenshot (82)](https://github.com/user-attachments/assets/4df952ab-0ee9-46dd-83b1-94424e96b684)
 ![Screenshot (85)](https://github.com/user-attachments/assets/f07156d7-9e48-4273-8378-79de219d5398)
 ![Screenshot (81)](https://github.com/user-attachments/assets/875ff952-b86a-45f1-a4db-81b98c9f759d)
+<h3> 🤝🏻 Connect with Me </h3>
 
+<p align="Row">
+&nbsp; <a href="https://profile.indeed.com/?hl=en_IN&co=IN&from=gnav-homepage" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=0bivoTfGHrML&format=png&color=000000" width="50" /></a> 
+  &nbsp; <a href="dheerajchauhan269@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="https://x.com/DheerajSingh637?t=G0grBgmoKteCtT83ks0N-g&s=09" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a> 
+&nbsp; <a href="https://www.instagram.com/_d_heeraj_chauhan/profilecard/?igsh=cmsyOTVrcmY1dGRm" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a> 
+&nbsp; <a href="https://www.facebook.com/profile.php?id=61562829161039&mibextid=ZbWKwL" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=118568&format=png&color=000000" width="50" /></a> 
+&nbsp; <a href="www.youtube.com/@DheerajChauhan-x3e" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" width="50" /></a> 
+  
+&nbsp; <a href="https://t.me/tele12200" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=5mIvDYZUWDCF&format=png&color=000000" width="50" /></a> 
+&nbsp; <a href="https://discord.gg/VxzZBdzP" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=30998&format=png&color=000000" width="50" /></a> 
+</p>
 
 
 
